@@ -2,7 +2,8 @@
 # NIM : 2309116009
 # Nama : Alyssa Dwiana Mulia
 # PROGRAM MENGHITUNG RUMUS SEGITIGA PYTHAGORAS 
-![postest 1 drawio](https://github.com/AlyssaMulia/tugas/assets/144673468/bd7fafb6-6197-4cac-a6db-0c470077820b)
+![postest 1 ganjil drawio](https://github.com/AlyssaMulia/tugas/assets/144673468/5ef0d03e-b236-439f-9960-faac66979a85)
+
 ini adalah contoh output yang akan keluar
 
 <img width="273" alt="Screenshot 2023-09-26 003032" src="https://github.com/AlyssaMulia/tugas/assets/144673468/5363c27d-8691-4403-b60d-2835d5aa39eb">
